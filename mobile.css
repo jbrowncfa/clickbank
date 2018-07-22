@@ -1,0 +1,192 @@
+@media (max-width: 880px) {
+	#thebody {
+		width:100% !important;
+		min-width:0px !important;
+		border:none !important;
+	}
+	div.salestext {
+		margin:0 2% 0 2% !important;
+	}
+	p {
+		margin:0 2% 2% 2% !important;
+	}
+	div.ps {
+		margin: 0 4% 0 4% !important;
+	}
+	img {
+		max-width:100% !important;
+	}
+	div.payinfo {
+		padding: 0 2% 0 2% !important;
+	}
+	div.cart2 {
+		max-width:100% !important;
+		padding:0 0 3% !important;
+	}
+	.cbstatement {
+		margin:5% 4% 5% 4% !important;
+	}
+	ul.memberlist {
+	text-align:left !important;
+	margin:0 4% 0 4% !important;
+	}
+	#title_inside {
+		margin-top:4% !important;
+	}
+	.page_margins {
+		margin:0 4% 0 4% !important;
+	}
+	.order .preicon {
+		padding-top:5% !important;
+	}
+}
+
+/* titles */
+
+@media (max-width: 600px) {
+	#title_bonus {
+		display:none !important;
+	}
+	#title_bonus_mobile {
+		display:block !important;
+	}
+}
+
+@media (min-width: 351px) and (max-width: 600px) {
+	#title_top {
+		display:none !important;
+	}
+	#title_top_mobile {
+		display:block !important;
+	}
+	#title_exit2 {
+		display:none !important;
+	}
+	#title_exit2_mobile {
+		display:block !important;
+	}
+}
+
+@media (max-width: 350px) {
+	#title_top {
+		display:none !important;
+	}
+	#title_top_mobile2 {
+		display:block !important;
+	}
+	#title_exit2 {
+		display:none !important;
+	}
+	#title_exit2_mobile2 {
+		display:block !important;
+	}
+}
+
+/* freedownload */
+
+@media (max-width: 850px) {
+	#freedownload {
+		width:100% !important;
+	}
+}
+
+@media (min-width: 600px) {
+
+}
+
+@media (max-width: 600px) {
+	#freedownload {
+		max-width:100% !important;
+	}
+	#freedownload_arrow {
+		display:none !important;
+	}
+}
+
+@media (min-width: 500px) {
+	#awform_mobile {
+		display:none !important;
+	}
+}
+
+@media (max-width: 500px) {
+	#freedownload_awform {
+		display:none !important;
+	}
+	#awform_mobile {
+		display:block !important;
+	}
+}
+
+/* secureregistration */
+
+@media (min-width: 550px) {
+	#testimonials {
+		display:block !important;
+	}
+}
+
+@media (max-width: 550px) {
+	#testimonials {
+		display:none !important;
+	}
+	#testimonials_mobile {
+		display:block !important;
+	}
+	.order .orderTST {
+		float:none !important;
+		width:94% !important;
+	}
+	.content_in2 {
+		width:94% !important;
+		padding-bottom:10px !important;
+	}
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+	html {
+/*		font-size: 90% !important;*/
+	}
+
+	body {
+/*		font-size: 1em;*/
+	}
+}
+
+@media (max-width: 991px) {
+	html {
+		font-size: 90% !important;
+	}
+
+	body {
+		font-size: 16px !important;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+	html {
+		font-size: 95% !important;
+	}
+}
+
+@media (max-width: 767px) {
+	html {
+		font-size: 80% !important;
+	}
+}
+
+@media (max-width: 580px) {
+	html {
+		font-size: 65% !important;
+	}
+
+	body {
+		font-size: 15px !important;
+	}
+}
+
+@media (max-width: 480px) {
+	html {
+		font-size: 65% !important;
+	}
+}

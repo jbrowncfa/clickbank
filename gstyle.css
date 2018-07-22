@@ -1,0 +1,186 @@
+.h1 {
+	font-family: Impact;
+	font-style: normal;
+	color: #e1e1e1;
+	text-align: center;
+	font-weight: lighter;
+	font-size: 36px;
+}
+
+.h2 {
+	font-family: "Tahoma";
+	font-size: 22px;
+	text-align: center;
+	text-decoration: none;
+	text-transform: capitalize;
+	color: #000000;
+	font-weight: bold;
+}
+.h3 {
+	font-family: Impact;
+	font-style: normal;
+	color: f69000;
+	text-align: center;
+	font-weight: lighter;
+	font-size: 30px;
+}
+.h4 {
+	font-family: "Tahoma";
+	font-size: 16px;
+	font-style: normal;
+	text-align: center;
+	text-decoration: none;
+	text-transform: capitalize;
+	color: #cc0000;
+	font-weight: bold;
+}
+.h5 {
+	font-family: "Tahoma";
+	font-size: 22px;
+	text-align: center;
+	text-decoration: none;
+	text-transform: capitalize;
+	color: #cc0000;
+	font-weight: bold;
+}
+.h6 {
+	font-family: "Tahoma";
+	font-size: 18px;
+	font-style: normal;
+	text-align: center;
+	text-decoration: none;
+	text-transform: capitalize;
+	color: #cc0000;
+	font-weight: bold;
+}
+body {
+}
+.bodytext {
+font-family:Verdana; 
+font-size:14px; 
+color: #333333;
+}
+
+.bodytext2 {
+	font-family: "Verdana";
+	font-size: 12px;
+color: #333333;
+}
+
+a:active {
+	color: Blue;
+}
+a:hover {
+	color: #CC0000;
+	text-decoration: none;
+}
+a:visited {
+	color: Blue;
+}
+blockquote {
+	background-color: #cccccc;
+	border-bottom: 1px dashed #cc0000;
+	border-bottom-width: 1px;
+	border-left: none;
+	border-right: none;
+	border-top: 1px dashed #cc0000;
+	padding: 2px 2px 2px 2px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	display: block;
+	text-align: center;
+	font-family: "Verdana";
+	font-size: medium;
+	background: url(background.gif.html);
+}
+.testimonial {
+	background-color: #eeeeee;
+	border-bottom: 1px solid Black;
+	border-bottom-width: 1px;
+	border-left: none;
+	border-right: none;
+	border-top: 1px solid Black;
+	padding: 20px 20px 20px 20px;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	display: block;
+	text-align: left;
+	font-family: "Verdana";
+	font-size: small;
+}
+
+.testimonials {
+	padding: 10px 10px 10px 10px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	display: block;
+	text-align: left;
+	font-family: "Verdana";
+	font-size: 12px;
+	line-height: 16px;
+}
+
+.footer {
+	font-family:Verdana; 
+   font-size:10px; 
+   color: #666666;
+}
+.disclaimer {
+	font-family:Verdana; 
+   font-size:10px; 
+   color: #cccccc;
+}
+.footbold {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	margin-bottom: 20px;
+	font-weight: bold;
+	margin-top: 20px;
+	color: #666666;
+}
+.bonus {
+	border: thick dashed #CC0000;
+	padding: 0px;
+	margin: 5px;
+	background-position: center;
+	width: 100%;
+}
+
+.guarantee {
+font-family:Verdana; 
+font-size:14px; 
+color: #333333;
+	border: thick dashed #b30000;
+	padding: 10px 10px 10px 10px;
+	margin: 5px;
+	margin-left: 80px;
+	margin-right: 80px;
+	background: #f8d985;
+}
+.style3 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #cc0000; font-weight: bold; }
+.style5 {color: #CC0000; font-weight: bold; }
+.style7 {
+	color: #CC0000;
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.style8 {color: #cc0000}
+.style9 {color: #2c5696}
+.style10 {text-decoration: underline}
+.style11 {
+	color: #000000;
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	padding: 0px 15px 0px 15px;
+	font-family: "Verdana";
+	font-size: small;
+}
+.oboxbodytext {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 16px; color: #FFFFFF; font-weight: bold;}
+.oboxhedrtext {font-family: Georgia, "Times New Roman", Times, serif; font-size: 24px; text-align: center; color: #FFCC00; font-weight: bold; }
+/* Style sheet by Oki Trice - http://www.minisite911.com */
